@@ -3,9 +3,9 @@
 
 # But not these files...
 !.gitignore
-models.py
-serializers.py
-views.py
+!models.py
+!serializers.py
+!views.py
 
 # ...even if they are in subdirectories
 !*/
